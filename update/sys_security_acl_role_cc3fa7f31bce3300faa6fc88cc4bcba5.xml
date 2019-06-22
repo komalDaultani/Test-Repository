@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-22 09:55:08</sys_created_on>
+        <sys_id>cc3fa7f31bce3300faa6fc88cc4bcba5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_181299_cad_exam_loaner_request.x_181299_cad_exam.loaner_request_user</sys_name>
+        <sys_package display_value="CAD Exam" source="x_181299_cad_exam">d2aaaf3b1bca3300faa6fc88cc4bcb5f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CAD Exam">d2aaaf3b1bca3300faa6fc88cc4bcb5f</sys_scope>
+        <sys_security_acl display_value="x_181299_cad_exam_loaner_request">003fa7f31bce3300faa6fc88cc4bcba2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cc3fa7f31bce3300faa6fc88cc4bcba5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-22 09:55:08</sys_updated_on>
+        <sys_user_role display_value="x_181299_cad_exam.loaner_request_user" name="x_181299_cad_exam.loaner_request_user">bb2f6bff1b8e3300faa6fc88cc4bcbc7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
